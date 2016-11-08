@@ -1,0 +1,62 @@
+.uno{;
+    width: 1000px;
+    height: 500px;
+    background-color: lightpink;
+    
+}
+
+.dos{
+    border: 1px solid white;
+    width: 950px;
+    height: 450px;
+    position: relative;
+    top:25px;
+    left: 25px;
+    
+}
+.arco1 {
+    width: 100px;
+    height: 200px;
+    border: 1px solid white;
+    position: relative;
+    top: 120px;}
+.arco2 {
+    width: 100px;
+    height: 200px;
+    border: 1px solid white;
+    position: absolute;
+    top: 120px;
+   right: 0;
+}
+.redondo{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    position: absolute;
+    border-radius: 100%;
+    left: 350px;
+    top: 120px
+}
+.bola1{  
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 90px;
+    top: 3px;
+    
+}
+.bola2{  
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 110px;
+    bottom: 50px;
+    
+}
+.bola3{  
+    width: 20px;
+    height: 20px;
+    position: relative;
+    right: 25px;
+    top: 175px;
+}
