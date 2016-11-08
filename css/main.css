@@ -4,7 +4,6 @@
     background-color: darkseagreen;
     
 }
-
 .dos{
     border: 1px solid white;
     width: 950px;
@@ -56,6 +55,7 @@
     bottom: 50px;
     
 }
+
 .bola3{  
     width: 20px;
     height: 20px;
@@ -63,3 +63,4 @@
     right: 25px;
     top: 175px;
 }
+
