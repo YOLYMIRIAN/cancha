@@ -1,7 +1,7 @@
 .uno{;
     width: 1000px;
     height: 500px;
-    background-color: lightpink;
+    background-color: darkseagreen;
     
 }
 
@@ -19,7 +19,9 @@
     height: 200px;
     border: 1px solid white;
     position: relative;
-    top: 120px;}
+    top: 120px;
+    margin-left: -1px; 
+}
 .arco2 {
     width: 100px;
     height: 200px;
@@ -27,6 +29,7 @@
     position: absolute;
     top: 120px;
    right: 0;
+    margin-right: -1px; 
 }
 .redondo{
     width: 200px;
